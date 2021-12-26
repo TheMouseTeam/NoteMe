@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_today"
+            android:icon="@drawable/baseline_note_add_white_18dp"
+            android:title="@string/note_it_down" />
+        <item
+            android:id="@+id/nav_previous_days"
+            android:icon="@drawable/baseline_note_white_18dp"
+            android:title="@string/your_notes" />
+    </group>
+
+    <item android:title="@string/more">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/seriesme"
+                android:title="@string/privacy" />
+        </menu>
+    </item>
+
+</menu>

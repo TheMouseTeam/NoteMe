@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoteMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="success_note">Η Σημείωση Αποθηκεύτηκε</string>
+    <string name="write_first">Γράψε μια σημείωση πρώτα</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="delete_note">Θέλεις να διαγράψεις αυτή την σημείωση ?</string>
+    <string name="delete_notes">Θέλεις να διαγράψεις όλες τις σημείωσεις ?</string>
+    <string name="write_a_note">Γράψε μια Σημείωση</string>
+    <string name="note">Σημείωση</string>
+    <string name="notes">Σημείωσεις</string>
+    <string name="note_it_down">Σημείωσε το</string>
+    <string name="your_notes">Οι Σημείωσεις Σου</string>
+    <string name="more">Περισσότερα</string>
+    <string name="privacy">SeriesMe</string>
+    <string name="delete_this_note">Διέγραψε αυτή την σημείωση</string>
+    <string name="delete_all_notes">Διέγραψε όλες τις σημείωσεις</string>
+    <string name="quick">(Πρόσθεσε Γρήγορα Την Σημείωση Σου)</string>
+    <string name="motto">Οι σημείωσεις σου. Οι σκέψεις σου.</string>
+</resources>
